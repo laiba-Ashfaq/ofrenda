@@ -26,10 +26,7 @@ The ghost in the machine is the person's memory, kept alive by the stories you t
 not to impersonate the dead; the model is told to use only the facts you provide and never invent any.
 
 ## Demo
-<!-- add a screen recording here -->
-
-## Code
-<!-- embed your GitHub repo here -->
+https://youtu.be/Tzgm5xRq2QU
 
 ## How I Built It
 - **Model:** any open-weight model served locally by Ollama (default `llama3.2`; swap with `OFRENDA_MODEL`).
@@ -44,8 +41,4 @@ I don't control, under terms that can change. Here the model runs on the laptop:
 and can't be deprecated out from under a family. I could also swap models freely, trying a smaller one for older laptops or one that
 writes better in Spanish, and tune the interviewer's tone by editing a prompt. A memorial shouldn't depend on a subscription.
 
-## The Spirit of It
-<!-- Add the moment it landed: a real memory someone shared, with their permission. -->
 
-## Prize Categories
-<!-- list any that apply -->
