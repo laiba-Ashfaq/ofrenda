@@ -1,4 +1,4 @@
-# Ofrenda 🕯️
+
 
 A local, offline tool for writing a remembrance of someone you've lost, in the spirit of Día de los Muertos.
 Open-weight model (via Ollama), Python standard library only, no cloud, no accounts, no telemetry.
@@ -14,9 +14,9 @@ Remembrances are saved as `.md` + `.json` in `./ofrenda_data/`.
 
 ---
 
-# DEV post draft (paste into the submission template)
 
 *This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine*
+<img width="1065" height="542" alt="image" src="https://github.com/user-attachments/assets/8d18e39b-70b9-445e-8723-1df133cc26f4" />
 
 ## What I Built
 Ofrenda is a local app for writing a remembrance of someone who has died. You enter their name, favorite foods and songs, then
@@ -25,8 +25,16 @@ share memories. If you get stuck, the model acts as a gentle oral-history interv
 The ghost in the machine is the person's memory, kept alive by the stories you tell, not by pretending to be them. I deliberately chose
 not to impersonate the dead; the model is told to use only the facts you provide and never invent any.
 
+<img width="955" height="548" alt="image" src="https://github.com/user-attachments/assets/ca7d1c26-b1e8-4cfd-8be8-3e84e26ee165" />
+
+
+<img width="789" height="523" alt="image" src="https://github.com/user-attachments/assets/e214fefe-9603-484f-a3d6-5b3a717e4f39" />
+
+
 ## Demo
 https://youtu.be/Tzgm5xRq2QU
+
+
 
 ## How I Built It
 - **Model:** any open-weight model served locally by Ollama (default `llama3.2`; swap with `OFRENDA_MODEL`).
